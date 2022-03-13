@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin&link=https://www.linkedin.com/in/david-guillaumant-mergler-91125b91/"></img>
+<a url="https://www.linkedin.com/in/david-guillaumant-mergler-91125b91"><img src="https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin&link=https://www.linkedin.com/in/david-guillaumant-mergler-91125b91/"></img></a>
 <!--
 **visionspider/visionspider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
