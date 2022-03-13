@@ -1,8 +1,8 @@
 ### Hi there 👋
-Reach me @ 
+Reach me : </br></br>
 <a target="_blank" href="https://www.linkedin.com/in/david-guillaumant-mergler-91125b91"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></img></a>
-
-What I've worked with :
+ 
+What I've worked with : </br></br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
